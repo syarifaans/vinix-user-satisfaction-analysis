@@ -125,5 +125,7 @@ Dashboard ini menyajikan:
 - Demografi responden
 - Insight utama terkait kepuasan pengguna
 
+---
+
 ## 10. Kontributor
 Proyek ini disusun oleh **Syarifa Anastasya Putri** sebagai bagian dari pengembangan portofolio Data Analyst.
