@@ -113,5 +113,17 @@ reports/
 
 ---
 
-## 8. Kontributor
+## 9. Dashboard Interaktif (Looker Studio)
+
+Untuk visualisasi interaktif dan ringkasan temuan utama, silakan lihat dashboard berikut:
+
+**[Dashboard Kepuasan Pengguna – Looker Studio](https://lookerstudio.google.com/reporting/94150b6f-b521-4fcb-83d8-e0c640b4d367)**
+
+Dashboard ini menyajikan:
+- Rata-rata skor X, Y, dan Z
+- Distribusi tiap variabel
+- Demografi responden
+- Insight utama terkait kepuasan pengguna
+
+## 10. Kontributor
 Proyek ini disusun oleh **Syarifa Anastasya Putri** sebagai bagian dari pengembangan portofolio Data Analyst.
