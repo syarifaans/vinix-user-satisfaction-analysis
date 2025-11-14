@@ -53,7 +53,39 @@ Secara umum pengguna merasa puas, namun terdapat variasi penilaian yang menunjuk
 
 ---
 
-## 5. Visualisasi
+## 5. Business Insight
+
+Hasil analisis menunjukkan bahwa secara umum pengguna memiliki pengalaman positif terhadap aplikasi pajak kendaraan, terutama pada aspek kemudahan penggunaan dan kepercayaan terhadap keamanan data. Namun, terdapat beberapa temuan yang relevan untuk perbaikan dan pengembangan aplikasi:
+
+1. **Kemudahan Penggunaan Tinggi (Skor Rata-Rata: 4.74)**  
+   Antarmuka aplikasi sudah intuitif dan mayoritas pengguna tidak mengalami hambatan dalam navigasi.  
+   **Implikasi bisnis:**  
+   - Fitur desain dan navigasi yang saat ini digunakan perlu dipertahankan.  
+   - Pengembangan fitur baru harus mempertimbangkan konsistensi antarmuka yang sudah familiar bagi pengguna.
+
+2. **Kepercayaan Terhadap Sistem Stabil (Skor Rata-Rata: 4.72)**  
+   Pengguna cukup percaya terhadap keamanan data, namun ada sebagian kecil yang masih merasa ragu.  
+   **Implikasi bisnis:**  
+   - Pentingnya meningkatkan edukasi terkait keamanan data, misalnya transparansi tentang enkripsi atau standar perlindungan data.  
+   - Penambahan fitur keamanan seperti two-factor authentication (2FA) dapat meningkatkan kepercayaan pengguna.
+
+3. **Kepuasan Fitur Cukup Variatif (Range Skor: 9–15)**  
+   Meskipun skor rata-rata cukup tinggi, variasi penilaian yang besar menunjukkan bahwa tidak semua fitur memenuhi kebutuhan pengguna.  
+   **Implikasi bisnis:**  
+   - Diperlukan evaluasi terhadap fitur dengan performa paling rendah.  
+   - Pengembangan fitur baru harus berfokus pada kebutuhan inti pengguna, khususnya dalam proses pembayaran, notifikasi, dan verifikasi data kendaraan.
+
+4. **Kesempatan untuk Meningkatkan Retensi Pengguna**  
+   Mayoritas pengguna bersedia merekomendasikan aplikasi, yang menunjukkan potensi pertumbuhan organik.  
+   **Implikasi bisnis:**  
+   - Menambahkan program loyalty atau reward dapat meningkatkan engagement jangka panjang.  
+
+**Kesimpulan Utama:**  
+Aplikasi memiliki fondasi user experience yang kuat, tetapi peningkatan keamanan dan optimalisasi fitur dapat memberikan dampak besar terhadap kepuasan dan retensi pengguna.
+
+---
+
+## 6. Visualisasi
 
 ### Histogram Variabel X (Kemudahan Penggunaan)
 ![Histogram X](visualization/hist_X.png)
@@ -66,14 +98,14 @@ Secara umum pengguna merasa puas, namun terdapat variasi penilaian yang menunjuk
 
 ---
 
-## 6. Teknologi dan Tools
+## 7. Teknologi dan Tools
 - SPSS  
 - Microsoft Excel  
 - Python (opsional untuk analisis tambahan)
 
 ---
 
-## 7. Struktur Repositori
+## 8. Struktur Repositori
 data/
 analysis/
 visualization/
