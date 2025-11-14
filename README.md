@@ -54,12 +54,15 @@ Secara umum pengguna merasa puas, namun terdapat variasi penilaian yang menunjuk
 ---
 
 ## 5. Visualisasi
-Visualisasi analisis mencakup:
-- Histogram variabel X  
-- Histogram variabel Y  
-- Histogram variabel Z  
 
-Visualisasi akan ditambahkan ke folder `visualization/`.
+### Histogram Variabel X (Kemudahan Penggunaan)
+![Histogram X](visualization/hist_X.png)
+
+### Histogram Variabel Y (Keamanan Data)
+![Histogram Y](visualization/hist_Y.png)
+
+### Histogram Variabel Z (Kepuasan Fitur)
+![Histogram Z](visualization/hist_Z.png)
 
 ---
 
@@ -75,7 +78,6 @@ data/
 analysis/
 visualization/
 reports/
-
 
 ---
 
